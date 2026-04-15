@@ -1,11 +1,11 @@
-# 💻 Título do Seu Projeto (Ex: Simulador XPTO)
+# 💻 GalaxyTours
 
-Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma concessionária de carros esportivos de luxo.
+Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma agência de turismo espacial.
 
 ## 🛠️ Tecnologias Utilizadas
 * HTML5 (Semântica e Acessibilidade)
 * CSS3 (Estilização e Feedback Visual)
-* JavaScript (Manipulação de DOM e Eventos)
+* JavaScript 
 
 ## 📁 Estrutura do Projeto
 O projeto foi organizado seguindo boas práticas de mercado:
@@ -15,16 +15,15 @@ O projeto foi organizado seguindo boas práticas de mercado:
     ├── styles/  (Estilos da página)
     |    └── style.css
     ├── scripts/ (Lógica de interação)
-    |   └── script
+    |   └── script.js
     └── images/  (Ativos visuais)
-        └── carro.png
+        └──foguete.png
 
 ## 🚀 Funcionalidades Implementadas
-* **Interatividade Visual:** Elementos que, ao passar o mouse, o card fica vermelho, acionando o *modo corrida* (Hover e manipulação de Classes).
-* **Saudação Dinâmica:** Uma mensagem de boas vindas tematica conforme o horario local do usuário, mudando de "Tarde perfeita para um test-drive" até "Pé na estrada".
-* **Cálculo em Tempo Real:** Formulário que processa e exibe resultados assim que o usuário digita, calculando em tempo real a quantidade de combustiível para uma viagem
-* **Injeção de Conteúdo:** Adição de novos itens na tela utilizando manipulação de DOM, como uma lista a cada vez que o usuário clica em um botão indicado que tem interesse, até um botão que reseta toda a lista
+* **Responsividade da tela:** Agora todo o site está responsivo para todos os tipos de tela, desde telas de computadores até telas de smartphones e tablets. Desso modo, todos os clientes poderão fazer suas compras sem ficarem perdidos por causa do layout quebrado do site
 
-## 👨‍💻 Autor
+
+## 👨‍💻 Autora
 [Anna Viktoria Alacamini de Carvalho]
 [(https://github.com/anna-viktoria23/Senai.git)]
+
